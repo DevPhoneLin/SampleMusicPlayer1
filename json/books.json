@@ -1,0 +1,23 @@
+[
+  {
+    "rating": "4.5",
+    "title": "The Water",
+    "img": "assets/images/pic-1.png",
+    "writer" : "Sayar Gyi",
+    "category" : "Love"
+  },
+  {
+    "rating": "4.5",
+    "title": "The Water",
+    "img": "assets/images/pic-2.png",
+    "writer" : "Sayar Gyi",
+    "category" : "Love"
+  },
+  {
+    "rating": "4.5",
+    "title": "The Water",
+    "img": "assets/images/pic-3.png",
+    "writer" : "Sayar Gyi",
+    "category" : "Adventure"
+  }
+]
