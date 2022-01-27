@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sample_music_player_1/ui/screens/homepage.dart';
+import 'package:sample_music_player_1/ui/screens/music_detail_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +18,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const HomePage(),
+      // home: const HomePage(),
+      home: const MusicDetailPage(),
     );
   }
 }
